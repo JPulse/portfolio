@@ -1,0 +1,100 @@
+
+/*************************
+  ID's
+*************************/
+#Info {
+  font-size: 2em;
+}
+#Info2 {
+  font-size: 1.25em;
+}
+.Photo2 {
+  max-width: 25%;
+}
+#Run {
+  max-height: 50%;
+}
+#mail {
+  font-size: 2em;
+  text-decoration: underline;
+}
+#phone {
+   font-size: 2em;
+  text-decoration: underline;
+}
+
+
+/*************************
+  Links
+*************************/
+nav a:hover {
+  text-decoration: underline;
+  color: #ffff00;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:visited {
+  color: #a6a6a6;
+}
+
+
+/*************************
+  Body
+*************************/
+body {
+  margin-top: 300px;
+  max-width: 100%;
+  background-color:#000099;
+  color: #fff;
+}
+#write {
+  font-size: 2em;
+}
+#resume {
+  font-size:2em;
+}
+.PhotoPage {
+  width:50%;
+  
+}
+/*************************
+  Header
+*************************/
+header {
+  position:fixed;
+  right: 0px;
+  top: 0px;
+  background-color: #666666;
+  float:left; 
+  width: 100%
+}
+
+h1 {
+  font-size: 5em;
+  text-align: center;
+  color: #fff;
+}
+nav {
+  padding: 5px 0;
+  margin: 0 0 0 0;
+  background-color: #000;
+}
+nav ul {
+  text-align: center;
+}
+nav li {
+  font-weight: 600;
+  font-size: 2em;
+  color: #fff;
+  display: inline;
+  text-decoration: none;
+  padding: 0 40px 0 0;
+}
+/*************************
+  Footer
+*************************/
+footer {
+  font-size: 0.75em;
+}
